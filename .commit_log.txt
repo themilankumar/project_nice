@@ -355,3 +355,4 @@ commit 354 @ 2025-05-01T23:29:43 — fix: reduce layout shift on load
 commit 355 @ 2025-04-07T22:48:54 — chore: remove unused CSS rules
 commit 356 @ 2025-11-20T02:24:37 — chore: lint HTML for accessibility
 commit 357 @ 2025-07-22T15:01:22 — fix: resolve minor styling issues
+commit 358 @ 2025-04-06T15:20:32 — fix: sticky header overlap on anchor scroll
