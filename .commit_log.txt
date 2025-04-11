@@ -44,3 +44,4 @@ commit 43 @ 2025-10-26T09:37:35 — chore: add editorconfig settings
 commit 44 @ 2025-10-21T03:45:30 — feat: add preloader animation
 commit 45 @ 2025-12-11T06:16:05 — chore: update .gitignore
 commit 46 @ 2026-01-20T18:18:20 — fix: reduce layout shift on load
+commit 47 @ 2025-04-11T12:29:50 — fix: reduce layout shift on load
