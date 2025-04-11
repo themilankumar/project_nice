@@ -290,3 +290,4 @@ commit 289 @ 2026-04-20T20:22:47 — feat: animate counter stats on scroll
 commit 290 @ 2026-02-26T03:24:37 — style: fine-tune gradient backgrounds
 commit 291 @ 2025-11-05T00:00:45 — docs: update project timeline
 commit 292 @ 2026-01-11T04:23:19 — docs: improve README clarity
+commit 293 @ 2025-04-11T22:08:18 — docs: add license header comments
