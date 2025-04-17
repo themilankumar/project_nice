@@ -164,3 +164,4 @@ commit 163 @ 2025-06-16T11:55:05 — refactor: extract utility functions to help
 commit 164 @ 2025-12-14T14:58:04 — docs: add contribution guidelines
 commit 165 @ 2026-05-19T17:48:54 — chore: format code with prettier config
 commit 166 @ 2025-06-25T07:59:03 — feat: animate counter stats on scroll
+commit 167 @ 2025-04-18T01:51:28 — chore: remove unused CSS rules
