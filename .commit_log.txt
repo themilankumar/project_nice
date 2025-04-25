@@ -191,3 +191,4 @@ commit 190 @ 2025-06-13T01:43:50 — chore: add editorconfig settings
 commit 191 @ 2025-12-07T22:40:06 — fix: ensure ARIA labels on icons
 commit 192 @ 2025-04-27T14:23:25 — refactor: extract utility functions to helpers
 commit 193 @ 2026-01-16T18:43:22 — chore: update .gitignore
+commit 194 @ 2025-04-25T19:53:23 — fix: resolve minor styling issues
