@@ -54,3 +54,4 @@ commit 53 @ 2025-09-23T01:59:47 — docs: add contribution guidelines
 commit 54 @ 2026-05-05T01:04:30 — refactor: consolidate media queries
 commit 55 @ 2025-08-24T07:20:10 — feat: animate counter stats on scroll
 commit 56 @ 2025-10-03T04:52:53 — feat: animate counter stats on scroll
+commit 57 @ 2025-04-28T23:18:36 — chore: format code with prettier config
