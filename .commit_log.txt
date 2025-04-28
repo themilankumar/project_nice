@@ -240,3 +240,4 @@ commit 239 @ 2025-12-06T09:55:14 — feat: add footer social links
 commit 240 @ 2026-03-13T04:52:38 — feat: add preloader animation
 commit 241 @ 2026-03-19T08:20:08 — fix: button alignment on small screens
 commit 242 @ 2025-12-26T19:18:58 — fix: image loading optimization
+commit 243 @ 2025-04-28T18:18:36 — feat: add smooth scroll behavior
