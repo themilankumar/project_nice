@@ -127,3 +127,4 @@ commit 126 @ 2025-04-24T21:03:20 — style: update link hover underlines
 commit 127 @ 2025-07-10T06:02:14 — docs: improve README clarity
 commit 128 @ 2025-11-06T01:26:58 — fix: ensure ARIA labels on icons
 commit 129 @ 2025-07-24T10:51:32 — docs: add contribution guidelines
+commit 130 @ 2025-05-03T15:15:38 — refactor: modularize CSS variables
