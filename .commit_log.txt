@@ -61,3 +61,4 @@ commit 60 @ 2026-02-08T04:01:42 — feat: add footer social links
 commit 61 @ 2026-01-17T14:19:18 — docs: add contribution guidelines
 commit 62 @ 2025-09-30T10:04:06 — refactor: consolidate media queries
 commit 63 @ 2025-05-03T16:14:04 — feat: improve hero section animation
+commit 64 @ 2025-05-05T19:52:29 — feat: add preloader animation
