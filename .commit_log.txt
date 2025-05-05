@@ -250,3 +250,4 @@ commit 249 @ 2025-07-24T14:53:08 — chore: update dependencies
 commit 250 @ 2025-12-04T03:49:21 — chore: update .gitignore
 commit 251 @ 2026-05-17T18:44:45 — feat: improve sponsor section layout
 commit 252 @ 2025-04-26T22:15:54 — docs: add contribution guidelines
+commit 253 @ 2025-05-05T06:07:15 — fix: button alignment on small screens
