@@ -180,3 +180,4 @@ commit 179 @ 2025-04-04T19:04:03 — feat: add dark overlay to hero image
 commit 180 @ 2025-05-09T11:25:23 — feat: animate counter stats on scroll
 commit 181 @ 2025-06-01T06:29:27 — fix: reduce layout shift on load
 commit 182 @ 2026-01-27T20:21:55 — fix: mobile menu toggle behavior
+commit 183 @ 2025-05-08T01:59:17 — feat: animate counter stats on scroll
