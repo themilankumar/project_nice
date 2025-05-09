@@ -177,3 +177,4 @@ commit 176 @ 2025-08-20T01:34:21 — fix: resolve z-index conflict
 commit 177 @ 2026-03-04T03:16:12 — docs: document JS event listeners
 commit 178 @ 2026-01-18T16:55:31 — chore: lint HTML for accessibility
 commit 179 @ 2025-04-04T19:04:03 — feat: add dark overlay to hero image
+commit 180 @ 2025-05-09T11:25:23 — feat: animate counter stats on scroll
