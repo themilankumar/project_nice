@@ -152,3 +152,4 @@ commit 151 @ 2025-08-25T15:37:38 — fix: image loading optimization
 commit 152 @ 2026-01-23T03:29:07 — docs: add license header comments
 commit 153 @ 2026-04-25T21:19:44 — feat: add dark overlay to hero image
 commit 154 @ 2025-08-18T16:40:57 — refactor: clean up script logic
+commit 155 @ 2025-05-10T08:57:11 — feat: add smooth scroll behavior
