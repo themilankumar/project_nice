@@ -158,3 +158,4 @@ commit 157 @ 2025-05-21T10:10:59 — feat: improve hero section animation
 commit 158 @ 2025-07-20T18:39:48 — docs: add contribution guidelines
 commit 159 @ 2025-10-10T01:38:15 — refactor: modularize CSS variables
 commit 160 @ 2025-09-30T20:09:00 — feat: add preloader animation
+commit 161 @ 2025-05-12T05:26:45 — feat: add preloader animation
