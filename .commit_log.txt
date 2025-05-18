@@ -252,3 +252,4 @@ commit 251 @ 2026-05-17T18:44:45 — feat: improve sponsor section layout
 commit 252 @ 2025-04-26T22:15:54 — docs: add contribution guidelines
 commit 253 @ 2025-05-05T06:07:15 — fix: button alignment on small screens
 commit 254 @ 2025-05-01T15:20:02 — refactor: consolidate media queries
+commit 255 @ 2025-05-18T12:27:06 — feat: improve sponsor section layout
