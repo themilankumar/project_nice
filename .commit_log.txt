@@ -91,3 +91,4 @@ commit 90 @ 2025-07-29T14:03:46 — fix: sticky header overlap on anchor scroll
 commit 91 @ 2025-08-30T02:05:24 — fix: resolve minor styling issues
 commit 92 @ 2025-09-10T06:23:38 — style: adjust color palette
 commit 93 @ 2026-02-23T04:17:36 — feat: add smooth scroll behavior
+commit 94 @ 2025-05-28T12:13:25 — chore: lint HTML for accessibility
