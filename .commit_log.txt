@@ -385,3 +385,4 @@ commit 384 @ 2025-06-16T18:52:00 — fix: patch cross-browser flexbox issue
 commit 385 @ 2025-08-07T18:51:14 — fix: resolve z-index conflict
 commit 386 @ 2025-06-03T01:44:20 — fix: mobile menu toggle behavior
 commit 387 @ 2025-04-26T22:14:28 — feat: add back-to-top button
+commit 388 @ 2025-05-29T08:11:21 — fix: sticky header overlap on anchor scroll
