@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CU Motorsports — Formula Bharat Team | Chandigarh University</title>
+  <meta name="description" content="CU Motorsports is Chandigarh University's premier Formula Bharat racing team. Engineering excellence, innovation, and speed — built by students.">
+  <meta name="keywords" content="CU Motorsports, Formula Bharat, Chandigarh University, Formula SAE, Racing Team, FSAE India">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+  <!-- Preloader -->
+  <div id="preloader">
+    <div class="preloader-ring"></div>
+    <div class="preloader-text">CU Motorsports</div>
+  </div>
+
+  <!-- Particle Background -->
+  <canvas id="particles-canvas"></canvas>
+
+  <!-- ===== NAVBAR ===== -->
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="#" class="nav-logo">
+        <i class="fas fa-flag-checkered"></i>
+        CU <span class="accent">MOTORSPORTS</span>
+      </a>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#hero" class="active">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#specs">Our Car</a></li>
+        <li><a href="#departments">Team</a></li>
+        <li><a href="#timeline">Journey</a></li>
+        <li><a href="#sponsors">Sponsors</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <a href="#contact" class="nav-cta">
+        Join Us <i class="fas fa-arrow-right"></i>
+      </a>
+      <div class="hamburger" id="hamburger">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ===== HERO ===== -->
+  <section class="hero" id="hero">
+    <div class="hero-bg">
+      <img src="assets/hero_racecar.png" alt="CU Motorsports Formula Bharat Race Car">
+    </div>
+    <div class="container hero-content">
+      <div class="hero-badge">
+        <span class="dot"></span>
+        Formula Bharat 2026
+      </div>
+      <h1>
+        Engineering<br>
+        <span class="highlight">Speed & Precision</span>
+      </h1>
+      <p class="hero-desc">
+        We are <strong>CU Motorsports</strong> — Chandigarh University's elite Formula Bharat racing team. 
+        A force of passionate engineers designing, building, and racing a single-seat formula-style car 
+        to compete at the national stage.
+      </p>
+      <div class="hero-actions">
+        <a href="#about" class="btn-primary">
+          Discover Our Story <i class="fas fa-chevron-down"></i>
+        </a>
+        <a href="#specs" class="btn-outline">
+          <i class="fas fa-play"></i> Explore The Car
+        </a>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <h3 id="stat-members">0</h3>
+          <p>Team Members</p>
+        </div>
+        <div class="hero-stat">
+          <h3 id="stat-departments">0</h3>
+          <p>Departments</p>
+        </div>
+        <div class="hero-stat">
+          <h3 id="stat-hours">0</h3>
+          <p>Build Hours</p>
+        </div>
+        <div class="hero-stat">
+          <h3 id="stat-events">0</h3>
+          <p>Competitions</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== ABOUT ===== -->
+  <section class="about" id="about">
+    <div class="container">
+      <div class="about-grid">
+        <div class="about-image reveal">
+          <img src="assets/team_garage.png" alt="CU Motorsports Team at Work">
+        </div>
+        <div class="about-text reveal">
+          <span class="section-tag">Who We Are</span>
+          <h2 class="section-title">Born to Race,<br>Built to Win</h2>
+          <p>
+            CU Motorsports is a student-driven Formula Bharat racing team from 
+            <strong>Chandigarh University</strong>. We bring together the brightest minds in 
+            engineering, design, and management to conceive, design, fabricate, and race a 
+            formula-style vehicle at the prestigious <strong>Formula Bharat</strong> competition.
+          </p>
+          <p>
+            Our mission is to push the boundaries of automotive engineering while providing 
+            hands-on experience to future engineers. Every component, from the chassis to the 
+            aerodynamics package, is designed and built by our team members right here on campus.
+          </p>
+          <div class="about-highlights">
+            <div class="highlight-item">
+              <div class="highlight-icon"><i class="fas fa-cogs"></i></div>
+              <div>
+                <h4>Precision Engineering</h4>
+                <p>Every part is CAD-designed and FEA-validated</p>
+              </div>
+            </div>
+            <div class="highlight-item">
+              <div class="highlight-icon"><i class="fas fa-users"></i></div>
+              <div>
+                <h4>Multidisciplinary</h4>
+                <p>Mechanical, electrical, data & management</p>
+              </div>
+            </div>
+            <div class="highlight-item">
+              <div class="highlight-icon"><i class="fas fa-trophy"></i></div>
+              <div>
+                <h4>Competition Ready</h4>
+                <p>Preparing for Formula Bharat 2026</p>
+              </div>
+            </div>
+            <div class="highlight-item">
+              <div class="highlight-icon"><i class="fas fa-graduation-cap"></i></div>
+              <div>
+                <h4>Learn & Grow</h4>
+                <p>Real-world engineering beyond the classroom</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CAR SPECS ===== -->
+  <section class="specs" id="specs">
+    <div class="container">
+      <div class="specs-header reveal">
+        <span class="section-tag">The Machine</span>
+        <h2 class="section-title">Our Race Car</h2>
+        <p class="section-subtitle">
+          Every bolt, weld, and line of code — engineered for performance.
+        </p>
+      </div>
+      <div class="specs-showcase">
+        <div class="specs-image reveal">
+          <img src="assets/car_detail.png" alt="CU Motorsports Car — Engineering Detail">
+        </div>
+        <div class="specs-list reveal">
+          <div class="spec-card">
+            <div class="spec-icon">⚡</div>
+            <div>
+              <h4>Engine</h4>
+              <p class="spec-value">KTM 390 <span class="unit">Single Cyl.</span></p>
+            </div>
+          </div>
+          <div class="spec-card">
+            <div class="spec-icon">🏎️</div>
+            <div>
+              <h4>0–60 KM/H</h4>
+              <p class="spec-value">3.8 <span class="unit">seconds</span></p>
+            </div>
+          </div>
+          <div class="spec-card">
+            <div class="spec-icon">⚖️</div>
+            <div>
+              <h4>Curb Weight</h4>
+              <p class="spec-value">210 <span class="unit">kg</span></p>
+            </div>
+          </div>
+          <div class="spec-card">
+            <div class="spec-icon">🔧</div>
+            <div>
+              <h4>Chassis</h4>
+              <p class="spec-value">Tubular Space <span class="unit">Frame</span></p>
+            </div>
+          </div>
+          <div class="spec-card">
+            <div class="spec-icon">🌀</div>
+            <div>
+              <h4>Suspension</h4>
+              <p class="spec-value">Double Wishbone <span class="unit">All-round</span></p>
+            </div>
+          </div>
+          <div class="spec-card">
+            <div class="spec-icon">📊</div>
+            <div>
+              <h4>Downforce</h4>
+              <p class="spec-value">Custom Aero <span class="unit">Package</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== DEPARTMENTS ===== -->
+  <section class="departments" id="departments">
+    <div class="container">
+      <div class="departments-header reveal">
+        <span class="section-tag">Our Divisions</span>
+        <h2 class="section-title">Team Structure</h2>
+        <p class="section-subtitle">
+          A well-oiled machine — both on track and off. Meet the departments that make it all happen.
+        </p>
+      </div>
+      <div class="dept-grid">
+        <div class="dept-card reveal">
+          <div class="dept-icon">🏗️</div>
+          <h3>Chassis & Frame</h3>
+          <p>Design and fabrication of the tubular space frame chassis, ensuring structural rigidity, driver safety, and optimal weight distribution.</p>
+        </div>
+        <div class="dept-card reveal">
+          <div class="dept-icon">🔩</div>
+          <h3>Powertrain</h3>
+          <p>Engine tuning, intake & exhaust design, drivetrain optimization, and fuel system calibration for peak performance on track.</p>
+        </div>
+        <div class="dept-card reveal">
+          <div class="dept-icon">🌊</div>
+          <h3>Aerodynamics</h3>
+          <p>CFD simulations, wind tunnel testing, and aero package design — front wing, rear wing, undertray, and sidepods for maximum downforce.</p>
+        </div>
+        <div class="dept-card reveal">
+          <div class="dept-icon">🔄</div>
+          <h3>Suspension & Dynamics</h3>
+          <p>Suspension geometry, damper tuning, steering system, and brake design for precise vehicle dynamics and driver confidence.</p>
+        </div>
+        <div class="dept-card reveal">
+          <div class="dept-icon">⚡</div>
+          <h3>Electronics & Data</h3>
+          <p>ECU mapping, wiring harness, telemetry, data acquisition, and dashboard systems that keep the driver informed and the car optimized.</p>
+        </div>
+        <div class="dept-card reveal">
+          <div class="dept-icon">📢</div>
+          <h3>Business & Marketing</h3>
+          <p>Sponsorship management, brand identity, cost reporting, and business presentations — the backbone of our operations off the track.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== TIMELINE ===== -->
+  <section class="timeline-section" id="timeline">
+    <div class="container">
+      <div class="timeline-header reveal">
+        <span class="section-tag">Our Journey</span>
+        <h2 class="section-title">Road to Formula Bharat</h2>
+        <p class="section-subtitle">
+          From concept to competition — every milestone on our road to the track.
+        </p>
+      </div>
+      <div class="timeline">
+        <div class="timeline-item reveal">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <span class="timeline-date">Phase 1 — Jun 2025</span>
+            <h4>Team Formation</h4>
+            <p>Recruitment of core team members across engineering and management departments at Chandigarh University.</p>
+          </div>
+        </div>
+        <div class="timeline-item reveal">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <span class="timeline-date">Phase 2 — Aug 2025</span>
+            <h4>Concept Design</h4>
+            <p>Initial vehicle concept, rulebook study, suspension geometry, and aerodynamic simulations finalized.</p>
+          </div>
+        </div>
+        <div class="timeline-item reveal">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <span class="timeline-date">Phase 3 — Nov 2025</span>
+            <h4>Detailed Design & FEA</h4>
+            <p>Complete CAD modeling, finite element analysis, and design reviews across all sub-systems.</p>
+          </div>
+        </div>
+        <div class="timeline-item reveal">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <span class="timeline-date">Phase 4 — Jan 2026</span>
+            <h4>Manufacturing & Assembly</h4>
+            <p>Chassis fabrication, component machining, wiring harness, and vehicle assembly in the university workshop.</p>
+          </div>
+        </div>
+        <div class="timeline-item reveal">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <span class="timeline-date">Phase 5 — Mar 2026</span>
+            <h4>Testing & Validation</h4>
+            <p>Shakedown runs, brake tests, driver training, and data-driven setup refinements.</p>
+          </div>
+        </div>
+        <div class="timeline-item reveal">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <span class="timeline-date">Phase 6 — Jul 2026</span>
+            <h4>Formula Bharat Competition</h4>
+            <p>The big stage — static events, dynamic events, and endurance. Let's race! 🏁</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SPONSORS ===== -->
+  <section class="sponsors" id="sponsors">
+    <div class="container">
+      <div class="sponsors-header reveal">
+        <span class="section-tag">Partners</span>
+        <h2 class="section-title">Sponsorship & Support</h2>
+        <p class="section-subtitle">
+          We're actively looking for sponsors who share our passion for engineering excellence.
+        </p>
+      </div>
+      <div class="sponsors-message reveal">
+        <h3>🤝 Become a Sponsor</h3>
+        <p>
+          Support the next generation of automotive engineers. Partner with CU Motorsports and 
+          gain visibility at one of India's most prestigious FSAE events. Your brand on our car, 
+          our marketing, and our journey to the podium.
+        </p>
+        <a href="mailto:anirudhvikal2005@gmail.com?subject=Sponsorship Inquiry — CU Motorsports" class="btn-primary">
+          Get In Touch <i class="fas fa-envelope"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CONTACT ===== -->
+  <section class="contact" id="contact">
+    <div class="container">
+      <div class="contact-grid">
+        <div class="contact-info reveal">
+          <span class="section-tag">Get In Touch</span>
+          <h2 class="section-title">Let's Connect</h2>
+          <p>
+            Whether you're interested in sponsoring us, joining the team, or just want to 
+            learn more — we'd love to hear from you.
+          </p>
+          <h3>Contact Details</h3>
+          <div class="contact-detail">
+            <div class="contact-detail-icon"><i class="fas fa-envelope"></i></div>
+            <span><a href="mailto:anirudhvikal2005@gmail.com">anirudhvikal2005@gmail.com</a></span>
+          </div>
+          <div class="contact-detail">
+            <div class="contact-detail-icon"><i class="fas fa-map-marker-alt"></i></div>
+            <span>Chandigarh University, NH-95, Ludhiana — Chandigarh Highway, Mohali, Punjab, India</span>
+          </div>
+          <div class="contact-detail">
+            <div class="contact-detail-icon"><i class="fas fa-university"></i></div>
+            <span>Chandigarh University — Formula Bharat Team</span>
+          </div>
+        </div>
+        <form class="contact-form reveal" id="contactForm" onsubmit="handleSubmit(event)">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Your Name</label>
+              <input type="text" id="name" placeholder="John Doe" required>
+            </div>
+            <div class="form-group">
+              <label for="email">Email Address</label>
+              <input type="email" id="email" placeholder="john@example.com" required>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" placeholder="Sponsorship / Join Team / General Inquiry">
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" placeholder="Tell us what's on your mind..." required></textarea>
+          </div>
+          <button type="submit" class="btn-primary" id="submitBtn" style="width:100%; justify-content:center;">
+            Send Message <i class="fas fa-paper-plane"></i>
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="#" class="nav-logo">
+            <i class="fas fa-flag-checkered"></i>
+            CU <span class="accent">MOTORSPORTS</span>
+          </a>
+          <p>
+            Chandigarh University's official Formula Bharat racing team. 
+            Engineered by students. Driven by passion.
+          </p>
+          <div class="footer-social">
+            <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            <a href="mailto:anirudhvikal2005@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h4>Navigate</h4>
+          <a href="#hero">Home</a>
+          <a href="#about">About</a>
+          <a href="#specs">Our Car</a>
+          <a href="#departments">Team</a>
+        </div>
+        <div class="footer-col">
+          <h4>More</h4>
+          <a href="#timeline">Journey</a>
+          <a href="#sponsors">Sponsors</a>
+          <a href="#contact">Contact</a>
+        </div>
+        <div class="footer-col">
+          <h4>Reach Us</h4>
+          <a href="mailto:anirudhvikal2005@gmail.com">
+            <i class="fas fa-envelope"></i>&nbsp; anirudhvikal2005@gmail.com
+          </a>
+          <a href="#">
+            <i class="fas fa-map-marker-alt"></i>&nbsp; Chandigarh University, Mohali
+          </a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; 2026 CU Motorsports — Chandigarh University. All rights reserved.</span>
+        <span>Engineered with <i class="fas fa-heart" style="color:var(--clr-accent);"></i> for Formula Bharat</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
