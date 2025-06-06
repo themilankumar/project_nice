@@ -36,3 +36,4 @@ commit 35 @ 2026-02-18T21:19:44 — feat: add smooth scroll behavior
 commit 36 @ 2025-04-28T16:28:20 — feat: improve responsive layout
 commit 37 @ 2025-06-03T16:02:23 — chore: format code with prettier config
 commit 38 @ 2026-01-26T14:36:18 — fix: resolve z-index conflict
+commit 39 @ 2025-06-06T20:28:03 — feat: add footer social links
