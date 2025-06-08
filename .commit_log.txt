@@ -296,3 +296,4 @@ commit 295 @ 2025-04-06T14:14:47 — style: adjust color palette
 commit 296 @ 2025-07-12T21:50:48 — feat: improve responsive layout
 commit 297 @ 2025-11-22T08:52:26 — chore: format code with prettier config
 commit 298 @ 2025-12-02T12:29:06 — style: adjust color palette
+commit 299 @ 2025-06-08T23:07:13 — chore: add editorconfig settings
