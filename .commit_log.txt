@@ -313,3 +313,4 @@ commit 312 @ 2026-04-08T10:36:56 — style: improve typography spacing
 commit 313 @ 2025-10-07T16:53:41 — refactor: modularize CSS variables
 commit 314 @ 2026-03-27T11:27:12 — feat: add preloader animation
 commit 315 @ 2025-08-31T21:36:50 — chore: remove unused CSS rules
+commit 316 @ 2025-06-11T11:51:24 — feat: add footer social links
