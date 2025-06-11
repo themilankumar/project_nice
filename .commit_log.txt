@@ -274,3 +274,4 @@ commit 273 @ 2025-09-28T04:26:17 — fix: sticky header overlap on anchor scroll
 commit 274 @ 2025-07-14T13:27:49 — fix: patch cross-browser flexbox issue
 commit 275 @ 2025-04-10T20:59:28 — docs: improve README clarity
 commit 276 @ 2026-04-29T14:46:08 — chore: add editorconfig settings
+commit 277 @ 2025-06-11T17:09:09 — feat: add footer social links
