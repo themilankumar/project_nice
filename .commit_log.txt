@@ -218,3 +218,4 @@ commit 217 @ 2026-05-24T18:28:00 — feat: animate counter stats on scroll
 commit 218 @ 2025-11-16T06:53:25 — feat: add footer social links
 commit 219 @ 2025-09-11T03:51:30 — fix: button alignment on small screens
 commit 220 @ 2025-09-01T05:03:40 — feat: add section fade-in transitions
+commit 221 @ 2025-06-14T13:07:34 — fix: mobile menu toggle behavior
