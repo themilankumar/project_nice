@@ -369,3 +369,4 @@ commit 368 @ 2025-05-22T03:27:21 — docs: add license header comments
 commit 369 @ 2025-07-07T14:24:01 — chore: format code with prettier config
 commit 370 @ 2026-04-18T10:25:47 — refactor: clean up script logic
 commit 371 @ 2025-11-20T04:44:24 — fix: resolve minor styling issues
+commit 372 @ 2025-06-14T09:14:10 — fix: ensure ARIA labels on icons
