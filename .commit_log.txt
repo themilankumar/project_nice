@@ -160,3 +160,4 @@ commit 159 @ 2025-10-10T01:38:15 — refactor: modularize CSS variables
 commit 160 @ 2025-09-30T20:09:00 — feat: add preloader animation
 commit 161 @ 2025-05-12T05:26:45 — feat: add preloader animation
 commit 162 @ 2026-01-09T09:20:29 — feat: add dark overlay to hero image
+commit 163 @ 2025-06-16T11:55:05 — refactor: extract utility functions to helpers
