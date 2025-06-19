@@ -204,3 +204,4 @@ commit 203 @ 2025-08-01T16:17:55 — refactor: consolidate media queries
 commit 204 @ 2025-07-10T10:45:46 — docs: document JS event listeners
 commit 205 @ 2025-11-30T18:04:44 — docs: add contribution guidelines
 commit 206 @ 2026-03-18T08:52:08 — refactor: clean up script logic
+commit 207 @ 2025-06-19T10:03:22 — feat: enhance navbar hover effects
