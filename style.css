@@ -4,3 +4,7 @@
 /* ---- CSS Custom Properties ---- */
 :root {
   --clr-bg:        #0a0a0f;
+  --clr-bg-alt:    #111118;
+  --clr-surface:   #16161f;
+  --clr-surface-2: #1e1e2a;
+  --clr-border:    rgba(255,255,255,0.06);
