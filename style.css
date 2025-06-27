@@ -12,3 +12,7 @@
   --clr-text-dim:  #8a8a9e;
   --clr-accent:    #ff6b1a;
   --clr-accent-2:  #ff9149;
+  --clr-accent-glow: rgba(255,107,26,0.35);
+  --clr-white:     #ffffff;
+  --ff-heading:    'Orbitron', sans-serif;
+  --ff-body:       'Outfit', sans-serif;
