@@ -28,3 +28,6 @@
 html { scroll-behavior: smooth; scroll-padding-top: 80px; }
 body {
   font-family: var(--ff-body);
+  background: var(--clr-bg);
+  color: var(--clr-text);
+  line-height: 1.7;
