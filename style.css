@@ -39,3 +39,7 @@ img { display: block; max-width: 100%; }
 ul { list-style: none; }
 
 /* ---- Utility ---- */
+.container { width: min(1240px, 90%); margin-inline: auto; }
+.section-tag {
+  font-family: var(--ff-heading);
+  font-size: .72rem;
