@@ -366,3 +366,4 @@ commit 365 @ 2026-04-06T05:24:38 — docs: improve README clarity
 commit 366 @ 2026-01-14T09:02:03 — style: improve typography spacing
 commit 367 @ 2025-11-13T04:36:50 — feat: add footer social links
 commit 368 @ 2025-05-22T03:27:21 — docs: add license header comments
+commit 369 @ 2025-07-07T14:24:01 — chore: format code with prettier config
