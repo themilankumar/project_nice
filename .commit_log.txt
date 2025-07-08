@@ -135,3 +135,4 @@ commit 134 @ 2026-04-09T01:13:49 — chore: add editorconfig settings
 commit 135 @ 2026-05-22T19:01:23 — feat: improve hero section animation
 commit 136 @ 2025-08-25T07:13:40 — refactor: modularize CSS variables
 commit 137 @ 2026-04-07T07:00:19 — fix: resolve z-index conflict
+commit 138 @ 2025-07-09T02:15:07 — feat: enhance navbar hover effects
