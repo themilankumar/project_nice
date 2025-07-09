@@ -49,3 +49,15 @@ ul { list-style: none; }
   display: flex;
   align-items: center;
   gap: 12px;
+  margin-bottom: 10px;
+}
+.section-tag::before {
+  content: '';
+  width: 32px;
+  height: 2px;
+  background: var(--clr-accent);
+}
+.section-title {
+  font-family: var(--ff-heading);
+  font-size: clamp(1.8rem, 4vw, 3.2rem);
+  font-weight: 800;
