@@ -70,3 +70,8 @@ ul { list-style: none; }
   color: var(--clr-text-dim);
   max-width: 580px;
 }
+
+/* ---- Scroll Reveal ---- */
+.reveal {
+  opacity: 0;
+  transform: translateY(50px);
