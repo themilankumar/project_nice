@@ -271,3 +271,4 @@ commit 270 @ 2026-04-18T10:11:30 — fix: sticky header overlap on anchor scroll
 commit 271 @ 2025-05-04T03:14:01 — feat: animate counter stats on scroll
 commit 272 @ 2025-11-13T13:42:23 — docs: add contribution guidelines
 commit 273 @ 2025-09-28T04:26:17 — fix: sticky header overlap on anchor scroll
+commit 274 @ 2025-07-14T13:27:49 — fix: patch cross-browser flexbox issue
