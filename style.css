@@ -89,3 +89,7 @@ ul { list-style: none; }
   display: flex; flex-direction: column;
   align-items: center; justify-content: center;
   transition: opacity .6s ease;
+}
+#preloader.hide { opacity:0; pointer-events:none; }
+.preloader-ring {
+  width: 64px; height: 64px;
