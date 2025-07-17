@@ -167,3 +167,4 @@ commit 166 @ 2025-06-25T07:59:03 — feat: animate counter stats on scroll
 commit 167 @ 2025-04-18T01:51:28 — chore: remove unused CSS rules
 commit 168 @ 2026-03-18T22:46:26 — feat: add dark overlay to hero image
 commit 169 @ 2025-05-16T20:10:49 — fix: reduce layout shift on load
+commit 170 @ 2025-07-17T09:26:13 — style: fine-tune gradient backgrounds
