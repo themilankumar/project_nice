@@ -93,3 +93,4 @@ commit 92 @ 2025-09-10T06:23:38 — style: adjust color palette
 commit 93 @ 2026-02-23T04:17:36 — feat: add smooth scroll behavior
 commit 94 @ 2025-05-28T12:13:25 — chore: lint HTML for accessibility
 commit 95 @ 2025-04-21T16:21:02 — style: update link hover underlines
+commit 96 @ 2025-07-18T11:55:50 — refactor: modularize CSS variables
