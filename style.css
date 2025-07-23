@@ -110,3 +110,10 @@ ul { list-style: none; }
 /* ===== NAVBAR ===== */
 .navbar {
   position: fixed; top:0; left:0; width:100%; z-index:1000;
+  padding: 18px 0;
+  transition: background var(--transition), padding var(--transition), box-shadow var(--transition);
+}
+.navbar.scrolled {
+  background: rgba(10,10,15,0.85);
+  backdrop-filter: blur(20px);
+  padding: 12px 0;
