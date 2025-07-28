@@ -128,3 +128,12 @@ ul { list-style: none; }
   font-size: 1.3rem;
   color: var(--clr-white);
   display: flex; align-items: center; gap: 10px;
+}
+.nav-logo .accent { color: var(--clr-accent); }
+.nav-links { display:flex; gap: 32px; }
+.nav-links a {
+  font-size: .88rem;
+  font-weight: 500;
+  color: var(--clr-text-dim);
+  position: relative;
+  transition: color var(--transition);
