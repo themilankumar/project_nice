@@ -11,3 +11,4 @@ commit 10 @ 2025-04-29T21:35:05 — feat: add back-to-top button
 commit 11 @ 2026-05-20T10:13:38 — fix: resolve z-index conflict
 commit 12 @ 2025-06-25T15:23:19 — fix: image loading optimization
 commit 13 @ 2025-06-28T21:48:00 — chore: add editorconfig settings
+commit 14 @ 2025-07-29T17:19:30 — feat: add dark overlay to hero image
