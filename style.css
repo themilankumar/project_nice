@@ -137,3 +137,6 @@ ul { list-style: none; }
   color: var(--clr-text-dim);
   position: relative;
   transition: color var(--transition);
+}
+.nav-links a:hover, .nav-links a.active { color: var(--clr-white); }
+.nav-links a::after {
