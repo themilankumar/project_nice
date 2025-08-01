@@ -148,3 +148,11 @@ ul { list-style: none; }
 }
 .nav-links a:hover::after, .nav-links a.active::after { width:100%; }
 .nav-cta {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 10px 24px;
+  background: var(--clr-accent);
+  color: var(--clr-bg);
+  font-weight: 600;
+  font-size: .88rem;
+  border-radius: var(--radius-full);
+  transition: transform var(--transition), box-shadow var(--transition);
