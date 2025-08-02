@@ -333,3 +333,4 @@ commit 332 @ 2025-12-29T23:07:42 — style: improve typography spacing
 commit 333 @ 2026-04-01T10:44:24 — fix: sticky header overlap on anchor scroll
 commit 334 @ 2025-05-21T00:17:33 — fix: resolve minor styling issues
 commit 335 @ 2025-11-02T05:44:18 — chore: update .gitignore
+commit 336 @ 2025-08-03T04:21:31 — feat: improve sponsor section layout
