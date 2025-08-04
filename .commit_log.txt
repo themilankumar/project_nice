@@ -245,3 +245,4 @@ commit 244 @ 2026-02-10T12:02:57 — feat: improve sponsor section layout
 commit 245 @ 2025-12-14T12:03:25 — docs: add license header comments
 commit 246 @ 2026-01-10T07:06:00 — fix: reduce layout shift on load
 commit 247 @ 2026-03-20T20:22:56 — docs: improve README clarity
+commit 248 @ 2025-08-04T12:00:28 — fix: button alignment on small screens
