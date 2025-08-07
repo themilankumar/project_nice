@@ -376,3 +376,4 @@ commit 375 @ 2025-07-01T20:59:12 — docs: add contribution guidelines
 commit 376 @ 2025-10-01T02:47:12 — chore: remove unused CSS rules
 commit 377 @ 2025-08-24T05:42:32 — fix: reduce layout shift on load
 commit 378 @ 2026-03-31T16:56:26 — chore: update dependencies
+commit 379 @ 2025-08-07T14:24:43 — docs: add license header comments
