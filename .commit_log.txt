@@ -335,3 +335,4 @@ commit 334 @ 2025-05-21T00:17:33 — fix: resolve minor styling issues
 commit 335 @ 2025-11-02T05:44:18 — chore: update .gitignore
 commit 336 @ 2025-08-03T04:21:31 — feat: improve sponsor section layout
 commit 337 @ 2025-06-17T05:39:32 — chore: update dependencies
+commit 338 @ 2025-08-08T19:53:06 — refactor: extract utility functions to helpers
