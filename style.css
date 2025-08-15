@@ -203,3 +203,7 @@ ul { list-style: none; }
   border-radius: var(--radius-full);
   font-family: var(--ff-heading);
   font-size: .68rem;
+  letter-spacing: 3px;
+  color: var(--clr-accent);
+  margin-bottom: 24px;
+  text-transform: uppercase;
