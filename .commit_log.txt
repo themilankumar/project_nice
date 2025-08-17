@@ -221,3 +221,4 @@ commit 220 @ 2025-09-01T05:03:40 — feat: add section fade-in transitions
 commit 221 @ 2025-06-14T13:07:34 — fix: mobile menu toggle behavior
 commit 222 @ 2025-10-27T00:08:37 — feat: improve responsive layout
 commit 223 @ 2026-04-17T11:32:39 — fix: reduce layout shift on load
+commit 224 @ 2025-08-17T17:05:27 — feat: add back-to-top button
