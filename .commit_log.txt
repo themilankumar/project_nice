@@ -141,3 +141,4 @@ commit 140 @ 2025-12-10T01:26:48 — fix: button alignment on small screens
 commit 141 @ 2025-11-23T09:23:34 — chore: format code with prettier config
 commit 142 @ 2025-10-02T02:45:45 — feat: enhance navbar hover effects
 commit 143 @ 2025-09-18T07:37:03 — fix: resolve z-index conflict
+commit 144 @ 2025-08-18T07:16:42 — fix: mobile menu toggle behavior
