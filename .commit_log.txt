@@ -118,3 +118,4 @@ commit 117 @ 2025-08-23T17:03:00 — chore: add editorconfig settings
 commit 118 @ 2025-12-08T20:27:19 — style: update link hover underlines
 commit 119 @ 2025-04-28T23:09:01 — docs: document JS event listeners
 commit 120 @ 2026-04-17T04:38:06 — feat: add dark overlay to hero image
+commit 121 @ 2025-08-22T20:13:27 — feat: improve sponsor section layout
