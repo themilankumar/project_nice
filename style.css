@@ -238,3 +238,9 @@ ul { list-style: none; }
   margin-bottom: 36px;
 }
 .hero-actions { display:flex; gap:16px; flex-wrap:wrap; }
+.btn-primary {
+  display: inline-flex; align-items: center; gap:10px;
+  padding: 14px 32px;
+  background: var(--clr-accent);
+  color: var(--clr-bg);
+  font-weight: 700;
