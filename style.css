@@ -257,3 +257,13 @@ ul { list-style: none; }
   display: inline-flex; align-items: center; gap:10px;
   padding: 14px 32px;
   background: transparent;
+  color: var(--clr-white);
+  font-weight: 600;
+  font-size: .95rem;
+  border-radius: var(--radius-full);
+  border: 1.5px solid var(--clr-border);
+  cursor: pointer;
+  transition: border-color var(--transition), background var(--transition);
+}
+.btn-outline:hover {
+  border-color: var(--clr-accent);
