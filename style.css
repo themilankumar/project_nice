@@ -267,3 +267,10 @@ ul { list-style: none; }
 }
 .btn-outline:hover {
   border-color: var(--clr-accent);
+  background: rgba(255,107,26,0.06);
+}
+
+/* Hero stats ticker */
+.hero-stats {
+  display: flex; gap: 48px;
+  margin-top: 60px;
