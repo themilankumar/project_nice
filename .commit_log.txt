@@ -88,3 +88,4 @@ commit 87 @ 2026-05-15T20:17:46 — fix: resolve z-index conflict
 commit 88 @ 2025-08-19T15:58:57 — feat: add preloader animation
 commit 89 @ 2025-09-06T10:15:41 — refactor: extract utility functions to helpers
 commit 90 @ 2025-07-29T14:03:46 — fix: sticky header overlap on anchor scroll
+commit 91 @ 2025-08-30T02:05:24 — fix: resolve minor styling issues
