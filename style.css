@@ -279,3 +279,9 @@ ul { list-style: none; }
 }
 .hero-stat h3 {
   font-family: var(--ff-heading);
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--clr-accent);
+}
+.hero-stat p {
+  font-size: .82rem;
