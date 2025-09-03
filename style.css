@@ -285,3 +285,6 @@ ul { list-style: none; }
 }
 .hero-stat p {
   font-size: .82rem;
+  color: var(--clr-text-dim);
+  text-transform: uppercase;
+  letter-spacing: 1px;
