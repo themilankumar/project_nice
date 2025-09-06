@@ -348,3 +348,4 @@ commit 347 @ 2025-08-01T02:14:55 — fix: image loading optimization
 commit 348 @ 2025-06-27T22:00:01 — refactor: modularize CSS variables
 commit 349 @ 2025-07-27T14:15:37 — feat: improve sponsor section layout
 commit 350 @ 2025-09-03T02:24:30 — fix: image loading optimization
+commit 351 @ 2025-09-07T02:48:24 — chore: lint HTML for accessibility
