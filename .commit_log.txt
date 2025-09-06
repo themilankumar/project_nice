@@ -86,3 +86,4 @@ commit 85 @ 2025-04-28T20:43:07 — feat: add smooth scroll behavior
 commit 86 @ 2025-06-16T13:24:53 — fix: patch cross-browser flexbox issue
 commit 87 @ 2026-05-15T20:17:46 — fix: resolve z-index conflict
 commit 88 @ 2025-08-19T15:58:57 — feat: add preloader animation
+commit 89 @ 2025-09-06T10:15:41 — refactor: extract utility functions to helpers
