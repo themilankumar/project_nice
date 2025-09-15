@@ -329,3 +329,11 @@ ul { list-style: none; }
   display: flex; align-items: flex-start; gap: 12px;
   padding: 16px;
   background: var(--clr-surface);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--clr-border);
+  transition: border-color var(--transition);
+}
+.highlight-item:hover { border-color: var(--clr-accent); }
+.highlight-icon {
+  width: 36px; height: 36px; flex-shrink:0;
+  display:flex; align-items:center; justify-content:center;
