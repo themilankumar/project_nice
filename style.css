@@ -347,3 +347,7 @@ ul { list-style: none; }
   font-weight: 600;
   color: var(--clr-white);
 }
+.highlight-item p {
+  font-size: .78rem;
+  color: var(--clr-text-dim);
+  margin-bottom: 0;
