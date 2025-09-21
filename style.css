@@ -351,3 +351,9 @@ ul { list-style: none; }
   font-size: .78rem;
   color: var(--clr-text-dim);
   margin-bottom: 0;
+}
+
+/* ===== CAR SPECS ===== */
+.specs { padding: 120px 0; background: var(--clr-bg-alt); }
+.specs-header { text-align: center; margin-bottom: 60px; }
+.specs-header .section-subtitle { margin-inline: auto; }
