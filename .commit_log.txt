@@ -224,3 +224,4 @@ commit 223 @ 2026-04-17T11:32:39 — fix: reduce layout shift on load
 commit 224 @ 2025-08-17T17:05:27 — feat: add back-to-top button
 commit 225 @ 2026-02-13T23:35:14 — chore: lint HTML for accessibility
 commit 226 @ 2025-08-27T10:26:35 — feat: add back-to-top button
+commit 227 @ 2025-09-23T15:43:45 — refactor: modularize CSS variables
