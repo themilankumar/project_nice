@@ -357,3 +357,9 @@ ul { list-style: none; }
 .specs { padding: 120px 0; background: var(--clr-bg-alt); }
 .specs-header { text-align: center; margin-bottom: 60px; }
 .specs-header .section-subtitle { margin-inline: auto; }
+.specs-showcase {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+}
