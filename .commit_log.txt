@@ -340,3 +340,4 @@ commit 339 @ 2025-10-26T14:44:56 — chore: lint HTML for accessibility
 commit 340 @ 2025-12-18T22:58:01 — fix: mobile menu toggle behavior
 commit 341 @ 2025-08-11T23:42:30 — chore: lint HTML for accessibility
 commit 342 @ 2025-05-26T05:04:30 — refactor: modularize CSS variables
+commit 343 @ 2025-09-24T19:05:05 — fix: image loading optimization
