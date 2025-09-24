@@ -363,3 +363,9 @@ ul { list-style: none; }
   gap: 40px;
   align-items: center;
 }
+.specs-image {
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  position: relative;
+}
+.specs-image img {
