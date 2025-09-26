@@ -369,3 +369,6 @@ ul { list-style: none; }
   position: relative;
 }
 .specs-image img {
+  width:100%; border-radius: var(--radius-lg);
+}
+.specs-image::before {
