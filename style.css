@@ -372,3 +372,11 @@ ul { list-style: none; }
   width:100%; border-radius: var(--radius-lg);
 }
 .specs-image::before {
+  content:'';
+  position: absolute; inset:0;
+  background: linear-gradient(135deg, rgba(255,107,26,0.08), transparent);
+  z-index:1; pointer-events:none;
+  border-radius: var(--radius-lg);
+}
+.specs-list { display:flex; flex-direction:column; gap:16px; }
+.spec-card {
