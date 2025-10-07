@@ -409,3 +409,13 @@ ul { list-style: none; }
 .spec-card .spec-value {
   font-family: var(--ff-heading);
   font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--clr-white);
+}
+.spec-card .spec-value .unit {
+  font-size: .72rem;
+  color: var(--clr-accent);
+  margin-left: 4px;
+}
+
+/* ===== DEPARTMENTS ===== */
