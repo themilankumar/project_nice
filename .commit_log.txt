@@ -98,3 +98,4 @@ commit 97 @ 2026-02-05T16:11:45 — docs: document JS event listeners
 commit 98 @ 2026-02-23T00:36:58 — fix: button alignment on small screens
 commit 99 @ 2026-05-16T20:56:13 — style: adjust color palette
 commit 100 @ 2025-07-14T19:32:04 — feat: add section fade-in transitions
+commit 101 @ 2025-10-10T21:25:13 — feat: improve sponsor section layout
