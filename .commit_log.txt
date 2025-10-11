@@ -195,3 +195,4 @@ commit 194 @ 2025-04-25T19:53:23 — fix: resolve minor styling issues
 commit 195 @ 2025-08-16T04:20:55 — feat: add footer social links
 commit 196 @ 2025-11-08T04:50:43 — style: fine-tune gradient backgrounds
 commit 197 @ 2025-04-19T05:42:31 — style: fine-tune gradient backgrounds
+commit 198 @ 2025-10-11T08:59:38 — feat: add section fade-in transitions
