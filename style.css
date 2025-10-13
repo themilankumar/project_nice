@@ -438,3 +438,10 @@ ul { list-style: none; }
 }
 .dept-card:hover {
   border-color: var(--clr-accent);
+  transform: translateY(-6px);
+}
+.dept-card::before {
+  content:'';
+  position:absolute; top:0; left:0;
+  width:100%; height:3px;
+  background: linear-gradient(90deg, var(--clr-accent), var(--clr-accent-2));
