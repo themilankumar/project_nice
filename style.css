@@ -445,3 +445,7 @@ ul { list-style: none; }
   position:absolute; top:0; left:0;
   width:100%; height:3px;
   background: linear-gradient(90deg, var(--clr-accent), var(--clr-accent-2));
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform var(--transition);
+}
