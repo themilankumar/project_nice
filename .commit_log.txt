@@ -76,3 +76,4 @@ commit 75 @ 2025-08-12T19:39:54 — style: adjust color palette
 commit 76 @ 2025-08-02T18:03:58 — docs: document JS event listeners
 commit 77 @ 2025-04-24T20:55:15 — chore: format code with prettier config
 commit 78 @ 2025-07-31T09:09:15 — fix: correct broken asset path
+commit 79 @ 2025-10-17T02:47:21 — fix: resolve z-index conflict
