@@ -454,3 +454,10 @@ ul { list-style: none; }
   width:52px; height:52px;
   display:flex; align-items:center; justify-content:center;
   background: rgba(255,107,26,0.1);
+  border-radius: var(--radius-md);
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+.dept-card h3 {
+  font-family: var(--ff-heading);
+  font-size: 1rem;
