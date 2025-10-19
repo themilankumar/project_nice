@@ -461,3 +461,8 @@ ul { list-style: none; }
 .dept-card h3 {
   font-family: var(--ff-heading);
   font-size: 1rem;
+  font-weight: 700;
+  color: var(--clr-white);
+  margin-bottom: 10px;
+}
+.dept-card p {
