@@ -466,3 +466,8 @@ ul { list-style: none; }
   margin-bottom: 10px;
 }
 .dept-card p {
+  font-size: .9rem;
+  color: var(--clr-text-dim);
+}
+
+/* ===== TIMELINE ===== */
