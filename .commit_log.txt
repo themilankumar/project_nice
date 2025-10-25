@@ -170,3 +170,4 @@ commit 169 @ 2025-05-16T20:10:49 — fix: reduce layout shift on load
 commit 170 @ 2025-07-17T09:26:13 — style: fine-tune gradient backgrounds
 commit 171 @ 2026-04-20T22:43:16 — docs: document JS event listeners
 commit 172 @ 2025-07-05T22:19:12 — refactor: modularize CSS variables
+commit 173 @ 2025-10-25T06:01:29 — fix: resolve z-index conflict
