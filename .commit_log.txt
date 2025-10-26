@@ -40,3 +40,4 @@ commit 39 @ 2025-06-06T20:28:03 — feat: add footer social links
 commit 40 @ 2025-04-16T14:26:10 — docs: document JS event listeners
 commit 41 @ 2025-11-09T03:26:53 — chore: remove unused CSS rules
 commit 42 @ 2025-05-27T17:57:32 — fix: mobile menu toggle behavior
+commit 43 @ 2025-10-26T09:37:35 — chore: add editorconfig settings
