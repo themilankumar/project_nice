@@ -492,3 +492,7 @@ ul { list-style: none; }
   position:relative;
 }
 .timeline-item:nth-child(odd) { justify-content: flex-start; padding-right: calc(50% + 36px); }
+.timeline-item:nth-child(even) { justify-content: flex-end; padding-left: calc(50% + 36px); }
+.timeline-dot {
+  position:absolute; left:50%; top:20px;
+  width:14px; height:14px;
