@@ -3,3 +3,4 @@ commit 2 @ 2026-03-22T04:19:33 — fix: sticky header overlap on anchor scroll
 commit 3 @ 2025-06-17T12:09:53 — feat: animate counter stats on scroll
 commit 4 @ 2025-06-30T08:14:39 — docs: update project timeline
 commit 5 @ 2025-09-09T16:19:40 — docs: add contribution guidelines
+commit 6 @ 2025-10-28T13:47:58 — fix: button alignment on small screens
