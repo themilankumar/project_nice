@@ -500,3 +500,15 @@ ul { list-style: none; }
   border-radius:50%;
   transform: translateX(-50%);
   box-shadow: 0 0 20px var(--clr-accent-glow);
+  z-index:2;
+}
+.timeline-content {
+  padding: 24px;
+  background: var(--clr-surface);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--clr-border);
+  transition: border-color var(--transition);
+}
+.timeline-content:hover { border-color: var(--clr-accent); }
+.timeline-date {
+  font-family: var(--ff-heading);
