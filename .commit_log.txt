@@ -71,3 +71,4 @@ commit 70 @ 2026-02-21T23:16:16 — chore: update dependencies
 commit 71 @ 2025-11-30T06:16:58 — chore: update .gitignore
 commit 72 @ 2025-05-31T18:29:23 — fix: image loading optimization
 commit 73 @ 2025-11-14T08:29:34 — feat: improve hero section animation
+commit 74 @ 2025-11-04T00:33:30 — chore: format code with prettier config
