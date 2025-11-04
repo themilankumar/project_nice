@@ -521,3 +521,9 @@ ul { list-style: none; }
 .timeline-content h4 {
   font-size: 1rem;
   font-weight: 700;
+  color: var(--clr-white);
+  margin-bottom: 6px;
+}
+.timeline-content p {
+  font-size: .85rem;
+  color: var(--clr-text-dim);
