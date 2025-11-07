@@ -396,3 +396,4 @@ commit 395 @ 2025-12-08T15:35:47 — refactor: clean up script logic
 commit 396 @ 2026-01-26T07:13:59 — feat: improve hero section animation
 commit 397 @ 2025-12-22T17:11:25 — feat: improve hero section animation
 commit 398 @ 2025-05-17T00:53:14 — chore: format code with prettier config
+commit 399 @ 2025-11-07T09:12:08 — fix: mobile menu toggle behavior
