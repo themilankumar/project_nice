@@ -535,3 +535,9 @@ ul { list-style: none; }
 .sponsors-header .section-subtitle { margin-inline:auto; }
 .sponsors-message {
   text-align: center;
+  max-width: 700px;
+  margin: 0 auto 40px;
+  padding: 40px;
+  background: var(--clr-surface);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--clr-border);
