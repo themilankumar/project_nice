@@ -541,3 +541,9 @@ ul { list-style: none; }
   background: var(--clr-surface);
   border-radius: var(--radius-lg);
   border: 1px solid var(--clr-border);
+}
+.sponsors-message h3 {
+  font-family: var(--ff-heading);
+  font-size: 1.2rem;
+  color: var(--clr-white);
+  margin-bottom: 12px;
