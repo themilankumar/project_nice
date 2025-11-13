@@ -559,3 +559,15 @@ ul { list-style: none; }
 .contact-grid {
   display: grid;
   grid-template-columns: 1fr 1.2fr;
+  gap: 60px;
+  align-items: start;
+}
+.contact-info h3 {
+  font-family: var(--ff-heading);
+  font-size: 1.1rem;
+  color: var(--clr-white);
+  margin-bottom: 20px;
+}
+.contact-info p {
+  color: var(--clr-text-dim);
+  margin-bottom: 28px;
