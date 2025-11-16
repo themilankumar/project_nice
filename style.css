@@ -575,3 +575,6 @@ ul { list-style: none; }
 .contact-detail {
   display:flex; align-items:center; gap:14px;
   margin-bottom: 18px;
+}
+.contact-detail-icon {
+  width:44px; height:44px;
