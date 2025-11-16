@@ -227,3 +227,4 @@ commit 226 @ 2025-08-27T10:26:35 — feat: add back-to-top button
 commit 227 @ 2025-09-23T15:43:45 — refactor: modularize CSS variables
 commit 228 @ 2025-05-07T11:22:30 — chore: remove unused CSS rules
 commit 229 @ 2025-05-01T14:25:00 — docs: improve README clarity
+commit 230 @ 2025-11-16T22:00:06 — feat: add back-to-top button
