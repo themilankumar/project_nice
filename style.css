@@ -578,3 +578,6 @@ ul { list-style: none; }
 }
 .contact-detail-icon {
   width:44px; height:44px;
+  display:flex; align-items:center; justify-content:center;
+  background: rgba(255,107,26,0.1);
+  border-radius: var(--radius-sm);
