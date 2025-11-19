@@ -581,3 +581,8 @@ ul { list-style: none; }
   display:flex; align-items:center; justify-content:center;
   background: rgba(255,107,26,0.1);
   border-radius: var(--radius-sm);
+  color: var(--clr-accent);
+  font-size:1.1rem;
+  flex-shrink:0;
+}
+.contact-detail span {
