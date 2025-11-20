@@ -586,3 +586,8 @@ ul { list-style: none; }
   flex-shrink:0;
 }
 .contact-detail span {
+  font-size: .95rem;
+  color: var(--clr-text-dim);
+}
+.contact-detail a {
+  color: var(--clr-accent);
