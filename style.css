@@ -591,3 +591,8 @@ ul { list-style: none; }
 }
 .contact-detail a {
   color: var(--clr-accent);
+  transition: color var(--transition);
+}
+.contact-detail a:hover { color: var(--clr-accent-2); }
+
+.contact-form {
