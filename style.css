@@ -596,3 +596,11 @@ ul { list-style: none; }
 .contact-detail a:hover { color: var(--clr-accent-2); }
 
 .contact-form {
+  padding: 36px;
+  background: var(--clr-surface);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--clr-border);
+}
+.form-group { margin-bottom: 20px; }
+.form-group label {
+  display:block;
