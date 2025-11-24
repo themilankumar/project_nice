@@ -6,3 +6,4 @@ commit 5 @ 2025-09-09T16:19:40 — docs: add contribution guidelines
 commit 6 @ 2025-10-28T13:47:58 — fix: button alignment on small screens
 commit 7 @ 2025-04-10T23:24:36 — feat: improve hero section animation
 commit 8 @ 2026-03-25T02:10:12 — fix: reduce layout shift on load
+commit 9 @ 2025-11-24T23:27:12 — feat: add preloader animation
