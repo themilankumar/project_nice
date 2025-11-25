@@ -21,3 +21,4 @@ commit 20 @ 2025-04-16T09:24:49 — fix: sticky header overlap on anchor scroll
 commit 21 @ 2025-08-26T11:48:52 — chore: update dependencies
 commit 22 @ 2026-03-02T09:35:34 — fix: resolve z-index conflict
 commit 23 @ 2025-10-16T17:01:57 — refactor: modularize CSS variables
+commit 24 @ 2025-11-25T12:46:01 — chore: add editorconfig settings
