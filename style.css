@@ -604,3 +604,8 @@ ul { list-style: none; }
 .form-group { margin-bottom: 20px; }
 .form-group label {
   display:block;
+  font-size: .82rem;
+  font-weight: 600;
+  color: var(--clr-text-dim);
+  margin-bottom: 8px;
+  text-transform: uppercase;
