@@ -609,3 +609,7 @@ ul { list-style: none; }
   color: var(--clr-text-dim);
   margin-bottom: 8px;
   text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.form-group input,
+.form-group textarea {
