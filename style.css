@@ -613,3 +613,14 @@ ul { list-style: none; }
 }
 .form-group input,
 .form-group textarea {
+  width:100%;
+  padding: 14px 18px;
+  background: var(--clr-bg);
+  border: 1px solid var(--clr-border);
+  border-radius: var(--radius-sm);
+  color: var(--clr-white);
+  font-family: var(--ff-body);
+  font-size: .95rem;
+  outline:none;
+  transition: border-color var(--transition);
+}
