@@ -202,3 +202,4 @@ commit 201 @ 2025-12-15T10:46:34 — fix: resolve minor styling issues
 commit 202 @ 2026-03-12T18:37:25 — refactor: extract utility functions to helpers
 commit 203 @ 2025-08-01T16:17:55 — refactor: consolidate media queries
 commit 204 @ 2025-07-10T10:45:46 — docs: document JS event listeners
+commit 205 @ 2025-11-30T18:04:44 — docs: add contribution guidelines
