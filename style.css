@@ -645,3 +645,7 @@ ul { list-style: none; }
 .footer-brand .nav-logo { margin-bottom: 16px; }
 .footer-brand p {
   font-size: .9rem;
+  color: var(--clr-text-dim);
+  max-width: 280px;
+}
+.footer-col h4 {
