@@ -212,3 +212,4 @@ commit 211 @ 2025-07-14T23:25:53 — fix: ensure ARIA labels on icons
 commit 212 @ 2026-03-26T22:52:45 — feat: improve responsive layout
 commit 213 @ 2025-06-14T00:12:25 — fix: correct broken asset path
 commit 214 @ 2025-11-25T13:38:11 — style: adjust color palette
+commit 215 @ 2025-12-07T06:55:07 — style: fine-tune gradient backgrounds
