@@ -649,3 +649,7 @@ ul { list-style: none; }
   max-width: 280px;
 }
 .footer-col h4 {
+  font-family: var(--ff-heading);
+  font-size: .75rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
