@@ -254,3 +254,4 @@ commit 253 @ 2025-05-05T06:07:15 — fix: button alignment on small screens
 commit 254 @ 2025-05-01T15:20:02 — refactor: consolidate media queries
 commit 255 @ 2025-05-18T12:27:06 — feat: improve sponsor section layout
 commit 256 @ 2025-10-29T22:42:54 — feat: improve responsive layout
+commit 257 @ 2025-12-08T12:21:00 — feat: animate counter stats on scroll
