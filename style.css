@@ -663,3 +663,6 @@ ul { list-style: none; }
   margin-bottom: 12px;
   transition: color var(--transition);
 }
+.footer-col a:hover { color: var(--clr-accent); }
+.footer-social {
+  display:flex; gap:12px;
