@@ -307,3 +307,4 @@ commit 306 @ 2025-07-10T10:10:06 — chore: add editorconfig settings
 commit 307 @ 2025-08-01T22:57:59 — style: fine-tune gradient backgrounds
 commit 308 @ 2026-01-11T07:44:18 — chore: add editorconfig settings
 commit 309 @ 2025-09-19T12:59:04 — feat: animate counter stats on scroll
+commit 310 @ 2025-12-15T03:18:53 — refactor: consolidate media queries
