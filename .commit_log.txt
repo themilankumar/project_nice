@@ -242,3 +242,4 @@ commit 241 @ 2026-03-19T08:20:08 — fix: button alignment on small screens
 commit 242 @ 2025-12-26T19:18:58 — fix: image loading optimization
 commit 243 @ 2025-04-28T18:18:36 — feat: add smooth scroll behavior
 commit 244 @ 2026-02-10T12:02:57 — feat: improve sponsor section layout
+commit 245 @ 2025-12-14T12:03:25 — docs: add license header comments
