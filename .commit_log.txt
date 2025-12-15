@@ -105,3 +105,4 @@ commit 104 @ 2025-07-12T14:03:09 — feat: animate counter stats on scroll
 commit 105 @ 2026-04-28T19:50:04 — feat: add preloader animation
 commit 106 @ 2025-09-29T07:55:31 — feat: add back-to-top button
 commit 107 @ 2025-06-14T20:49:14 — style: adjust color palette
+commit 108 @ 2025-12-15T12:38:52 — refactor: modularize CSS variables
