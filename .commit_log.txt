@@ -327,3 +327,4 @@ commit 326 @ 2025-06-01T22:53:12 — chore: update dependencies
 commit 327 @ 2025-07-08T00:15:03 — chore: lint HTML for accessibility
 commit 328 @ 2025-10-22T11:00:02 — feat: add footer social links
 commit 329 @ 2025-05-14T21:27:34 — refactor: extract utility functions to helpers
+commit 330 @ 2025-12-17T02:58:57 — feat: add footer social links
