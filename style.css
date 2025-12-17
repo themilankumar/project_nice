@@ -675,3 +675,9 @@ ul { list-style: none; }
   border-radius: var(--radius-sm);
   border: 1px solid var(--clr-border);
   color: var(--clr-text-dim);
+  font-size: 1rem;
+  transition: all var(--transition);
+  margin-bottom:0;
+}
+.footer-social a:hover {
+  color: var(--clr-accent);
