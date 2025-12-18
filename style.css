@@ -681,3 +681,6 @@ ul { list-style: none; }
 }
 .footer-social a:hover {
   color: var(--clr-accent);
+  border-color: var(--clr-accent);
+  transform: translateY(-3px);
+}
