@@ -337,3 +337,4 @@ commit 336 @ 2025-08-03T04:21:31 — feat: improve sponsor section layout
 commit 337 @ 2025-06-17T05:39:32 — chore: update dependencies
 commit 338 @ 2025-08-08T19:53:06 — refactor: extract utility functions to helpers
 commit 339 @ 2025-10-26T14:44:56 — chore: lint HTML for accessibility
+commit 340 @ 2025-12-18T22:58:01 — fix: mobile menu toggle behavior
