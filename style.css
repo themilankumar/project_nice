@@ -684,3 +684,7 @@ ul { list-style: none; }
   border-color: var(--clr-accent);
   transform: translateY(-3px);
 }
+.footer-bottom {
+  display:flex; align-items:center; justify-content:space-between;
+  padding-top: 24px;
+  border-top: 1px solid var(--clr-border);
