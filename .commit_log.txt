@@ -361,3 +361,4 @@ commit 360 @ 2025-05-16T06:17:32 — chore: format code with prettier config
 commit 361 @ 2025-09-14T04:25:35 — style: adjust color palette
 commit 362 @ 2026-05-24T03:17:26 — feat: improve responsive layout
 commit 363 @ 2026-01-22T04:29:45 — feat: enhance navbar hover effects
+commit 364 @ 2025-12-28T08:51:44 — feat: add dark overlay to hero image
