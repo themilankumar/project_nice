@@ -275,3 +275,4 @@ commit 274 @ 2025-07-14T13:27:49 — fix: patch cross-browser flexbox issue
 commit 275 @ 2025-04-10T20:59:28 — docs: improve README clarity
 commit 276 @ 2026-04-29T14:46:08 — chore: add editorconfig settings
 commit 277 @ 2025-06-11T17:09:09 — feat: add footer social links
+commit 278 @ 2026-01-02T18:00:00 — feat: add back-to-top button
