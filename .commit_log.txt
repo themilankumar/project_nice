@@ -56,3 +56,4 @@ commit 55 @ 2025-08-24T07:20:10 — feat: animate counter stats on scroll
 commit 56 @ 2025-10-03T04:52:53 — feat: animate counter stats on scroll
 commit 57 @ 2025-04-28T23:18:36 — chore: format code with prettier config
 commit 58 @ 2025-11-02T17:37:54 — style: update link hover underlines
+commit 59 @ 2026-01-07T13:03:50 — fix: resolve minor styling issues
