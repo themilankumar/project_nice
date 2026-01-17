@@ -319,3 +319,4 @@ commit 318 @ 2026-04-12T16:37:13 — fix: resolve minor styling issues
 commit 319 @ 2025-08-02T22:55:19 — fix: sticky header overlap on anchor scroll
 commit 320 @ 2025-07-28T16:50:34 — style: update link hover underlines
 commit 321 @ 2025-09-13T15:57:29 — style: improve typography spacing
+commit 322 @ 2026-01-17T22:57:00 — style: update link hover underlines
