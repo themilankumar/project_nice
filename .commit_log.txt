@@ -207,3 +207,4 @@ commit 206 @ 2026-03-18T08:52:08 — refactor: clean up script logic
 commit 207 @ 2025-06-19T10:03:22 — feat: enhance navbar hover effects
 commit 208 @ 2025-07-30T09:18:23 — docs: add license header comments
 commit 209 @ 2026-04-21T05:08:23 — fix: sticky header overlap on anchor scroll
+commit 210 @ 2026-01-18T12:00:24 — feat: improve sponsor section layout
