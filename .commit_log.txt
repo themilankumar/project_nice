@@ -15,3 +15,4 @@ commit 14 @ 2025-07-29T17:19:30 — feat: add dark overlay to hero image
 commit 15 @ 2025-11-21T15:51:23 — fix: ensure ARIA labels on icons
 commit 16 @ 2025-06-03T00:49:02 — fix: correct broken asset path
 commit 17 @ 2025-05-09T12:10:32 — docs: add license header comments
+commit 18 @ 2026-01-22T07:19:20 — feat: improve sponsor section layout
