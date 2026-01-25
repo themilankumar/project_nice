@@ -371,3 +371,4 @@ commit 370 @ 2026-04-18T10:25:47 — refactor: clean up script logic
 commit 371 @ 2025-11-20T04:44:24 — fix: resolve minor styling issues
 commit 372 @ 2025-06-14T09:14:10 — fix: ensure ARIA labels on icons
 commit 373 @ 2025-07-11T23:16:09 — chore: update dependencies
+commit 374 @ 2026-01-25T08:49:11 — feat: add preloader animation
