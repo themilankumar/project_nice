@@ -393,3 +393,4 @@ commit 392 @ 2026-02-19T09:57:43 — feat: improve hero section animation
 commit 393 @ 2026-03-07T15:39:28 — docs: add license header comments
 commit 394 @ 2026-04-22T02:24:53 — feat: add section fade-in transitions
 commit 395 @ 2025-12-08T15:35:47 — refactor: clean up script logic
+commit 396 @ 2026-01-26T07:13:59 — feat: improve hero section animation
