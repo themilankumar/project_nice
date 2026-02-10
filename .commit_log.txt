@@ -130,3 +130,4 @@ commit 129 @ 2025-07-24T10:51:32 — docs: add contribution guidelines
 commit 130 @ 2025-05-03T15:15:38 — refactor: modularize CSS variables
 commit 131 @ 2025-07-14T08:31:41 — chore: update .gitignore
 commit 132 @ 2025-10-11T00:17:56 — refactor: modularize CSS variables
+commit 133 @ 2026-02-10T10:17:50 — docs: improve README clarity
