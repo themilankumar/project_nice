@@ -112,3 +112,4 @@ commit 111 @ 2025-06-23T12:29:30 — feat: add preloader animation
 commit 112 @ 2025-06-19T02:18:03 — feat: animate counter stats on scroll
 commit 113 @ 2025-07-22T19:44:10 — chore: lint HTML for accessibility
 commit 114 @ 2026-04-02T23:17:24 — fix: resolve z-index conflict
+commit 115 @ 2026-02-24T07:59:54 — feat: add back-to-top button
