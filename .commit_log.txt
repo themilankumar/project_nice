@@ -19,3 +19,4 @@ commit 18 @ 2026-01-22T07:19:20 — feat: improve sponsor section layout
 commit 19 @ 2026-04-12T06:08:10 — feat: add section fade-in transitions
 commit 20 @ 2025-04-16T09:24:49 — fix: sticky header overlap on anchor scroll
 commit 21 @ 2025-08-26T11:48:52 — chore: update dependencies
+commit 22 @ 2026-03-02T09:35:34 — fix: resolve z-index conflict
