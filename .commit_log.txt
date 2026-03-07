@@ -390,3 +390,4 @@ commit 389 @ 2025-07-23T08:20:54 — feat: add dark overlay to hero image
 commit 390 @ 2025-06-22T07:06:44 — chore: update dependencies
 commit 391 @ 2025-06-22T18:41:52 — feat: improve hero section animation
 commit 392 @ 2026-02-19T09:57:43 — feat: improve hero section animation
+commit 393 @ 2026-03-07T15:39:28 — docs: add license header comments
