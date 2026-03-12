@@ -234,3 +234,4 @@ commit 233 @ 2025-12-24T13:08:31 — refactor: clean up script logic
 commit 234 @ 2026-05-29T12:59:30 — docs: add license header comments
 commit 235 @ 2025-12-25T14:33:48 — docs: update project timeline
 commit 236 @ 2025-04-09T03:07:04 — fix: resolve z-index conflict
+commit 237 @ 2026-03-12T14:21:40 — feat: animate counter stats on scroll
