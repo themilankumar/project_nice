@@ -238,3 +238,4 @@ commit 237 @ 2026-03-12T14:21:40 — feat: animate counter stats on scroll
 commit 238 @ 2025-06-30T02:49:39 — style: fine-tune gradient backgrounds
 commit 239 @ 2025-12-06T09:55:14 — feat: add footer social links
 commit 240 @ 2026-03-13T04:52:38 — feat: add preloader animation
+commit 241 @ 2026-03-19T08:20:08 — fix: button alignment on small screens
