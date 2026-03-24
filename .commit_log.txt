@@ -5,3 +5,4 @@ commit 4 @ 2025-06-30T08:14:39 — docs: update project timeline
 commit 5 @ 2025-09-09T16:19:40 — docs: add contribution guidelines
 commit 6 @ 2025-10-28T13:47:58 — fix: button alignment on small screens
 commit 7 @ 2025-04-10T23:24:36 — feat: improve hero section animation
+commit 8 @ 2026-03-25T02:10:12 — fix: reduce layout shift on load
