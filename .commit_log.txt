@@ -120,3 +120,4 @@ commit 119 @ 2025-04-28T23:09:01 — docs: document JS event listeners
 commit 120 @ 2026-04-17T04:38:06 — feat: add dark overlay to hero image
 commit 121 @ 2025-08-22T20:13:27 — feat: improve sponsor section layout
 commit 122 @ 2025-04-12T14:22:32 — fix: reduce layout shift on load
+commit 123 @ 2026-03-27T05:26:15 — chore: update dependencies
