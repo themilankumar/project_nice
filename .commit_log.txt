@@ -330,3 +330,4 @@ commit 329 @ 2025-05-14T21:27:34 — refactor: extract utility functions to help
 commit 330 @ 2025-12-17T02:58:57 — feat: add footer social links
 commit 331 @ 2026-02-11T23:07:41 — docs: add contribution guidelines
 commit 332 @ 2025-12-29T23:07:42 — style: improve typography spacing
+commit 333 @ 2026-04-01T10:44:24 — fix: sticky header overlap on anchor scroll
