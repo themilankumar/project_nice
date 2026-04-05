@@ -362,3 +362,4 @@ commit 361 @ 2025-09-14T04:25:35 — style: adjust color palette
 commit 362 @ 2026-05-24T03:17:26 — feat: improve responsive layout
 commit 363 @ 2026-01-22T04:29:45 — feat: enhance navbar hover effects
 commit 364 @ 2025-12-28T08:51:44 — feat: add dark overlay to hero image
+commit 365 @ 2026-04-06T05:24:38 — docs: improve README clarity
