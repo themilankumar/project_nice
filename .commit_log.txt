@@ -309,3 +309,4 @@ commit 308 @ 2026-01-11T07:44:18 — chore: add editorconfig settings
 commit 309 @ 2025-09-19T12:59:04 — feat: animate counter stats on scroll
 commit 310 @ 2025-12-15T03:18:53 — refactor: consolidate media queries
 commit 311 @ 2026-03-14T23:00:28 — feat: improve responsive layout
+commit 312 @ 2026-04-08T10:36:56 — style: improve typography spacing
