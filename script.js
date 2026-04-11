@@ -7,3 +7,8 @@ window.addEventListener('load', () => {
   }, 1200);
 });
 
+// ---- Navbar scroll effect ----
+const navbar = document.getElementById('navbar');
+window.addEventListener('scroll', () => {
+  navbar.classList.toggle('scrolled', window.scrollY > 60);
+});
