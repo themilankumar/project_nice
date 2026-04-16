@@ -285,3 +285,4 @@ commit 284 @ 2025-05-30T10:45:06 — docs: add contribution guidelines
 commit 285 @ 2026-01-19T01:38:39 — fix: image loading optimization
 commit 286 @ 2026-01-09T18:35:24 — style: update link hover underlines
 commit 287 @ 2026-01-18T17:14:02 — chore: add editorconfig settings
+commit 288 @ 2026-04-16T11:22:46 — refactor: modularize CSS variables
