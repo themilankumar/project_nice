@@ -35,3 +35,8 @@ window.addEventListener('scroll', () => {
     const top = section.offsetTop;
     const height = section.offsetHeight;
     const id = section.getAttribute('id');
+    const link = navLinks.querySelector(`a[href="#${id}"]`);
+    if (link) {
+      if (scrollY >= top && scrollY < top + height) {
+        navLinks.querySelectorAll('a').forEach(a => a.classList.remove('active'));
+        link.classList.add('active');
