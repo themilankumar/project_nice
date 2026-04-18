@@ -367,3 +367,4 @@ commit 366 @ 2026-01-14T09:02:03 — style: improve typography spacing
 commit 367 @ 2025-11-13T04:36:50 — feat: add footer social links
 commit 368 @ 2025-05-22T03:27:21 — docs: add license header comments
 commit 369 @ 2025-07-07T14:24:01 — chore: format code with prettier config
+commit 370 @ 2026-04-18T10:25:47 — refactor: clean up script logic
