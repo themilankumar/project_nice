@@ -40,3 +40,7 @@ window.addEventListener('scroll', () => {
       if (scrollY >= top && scrollY < top + height) {
         navLinks.querySelectorAll('a').forEach(a => a.classList.remove('active'));
         link.classList.add('active');
+      }
+    }
+  });
+});
