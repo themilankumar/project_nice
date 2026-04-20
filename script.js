@@ -44,3 +44,6 @@ window.addEventListener('scroll', () => {
     }
   });
 });
+
+// ---- Scroll reveal ----
+const revealElements = document.querySelectorAll('.reveal');
