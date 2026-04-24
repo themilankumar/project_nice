@@ -57,3 +57,7 @@ const revealOnScroll = () => {
 };
 window.addEventListener('scroll', revealOnScroll);
 window.addEventListener('load', revealOnScroll);
+
+// ---- Counter animation ----
+function animateCounter(elementId, target, duration = 2000, suffix = '') {
+  const el = document.getElementById(elementId);
