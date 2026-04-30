@@ -77,3 +77,7 @@ function animateCounter(elementId, target, duration = 2000, suffix = '') {
   requestAnimationFrame(update);
 }
 
+// Trigger counters when hero section is visible
+let countersTriggered = false;
+const heroObserver = new IntersectionObserver((entries) => {
+  if (entries[0].isIntersecting && !countersTriggered) {
