@@ -81,3 +81,7 @@ function animateCounter(elementId, target, duration = 2000, suffix = '') {
 let countersTriggered = false;
 const heroObserver = new IntersectionObserver((entries) => {
   if (entries[0].isIntersecting && !countersTriggered) {
+    countersTriggered = true;
+    animateCounter('stat-members', 40, 2000, '+');
+    animateCounter('stat-departments', 6, 1500);
+    animateCounter('stat-hours', 5000, 2500, '+');
