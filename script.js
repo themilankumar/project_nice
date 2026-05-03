@@ -85,3 +85,8 @@ const heroObserver = new IntersectionObserver((entries) => {
     animateCounter('stat-members', 40, 2000, '+');
     animateCounter('stat-departments', 6, 1500);
     animateCounter('stat-hours', 5000, 2500, '+');
+    animateCounter('stat-events', 1, 1200);
+  }
+}, { threshold: 0.3 });
+const heroSection = document.getElementById('hero');
+if (heroSection) heroObserver.observe(heroSection);
