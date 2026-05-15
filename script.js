@@ -131,3 +131,8 @@ class Particle {
       const dy = this.y - mouse.y;
       const dist = Math.sqrt(dx * dx + dy * dy);
       if (dist < 120) {
+        const force = (120 - dist) / 120;
+        this.x += (dx / dist) * force * 0.8;
+        this.y += (dy / dist) * force * 0.8;
+      }
+    }
