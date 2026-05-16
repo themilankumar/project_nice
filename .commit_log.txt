@@ -96,3 +96,4 @@ commit 95 @ 2025-04-21T16:21:02 — style: update link hover underlines
 commit 96 @ 2025-07-18T11:55:50 — refactor: modularize CSS variables
 commit 97 @ 2026-02-05T16:11:45 — docs: document JS event listeners
 commit 98 @ 2026-02-23T00:36:58 — fix: button alignment on small screens
+commit 99 @ 2026-05-16T20:56:13 — style: adjust color palette
