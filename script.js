@@ -136,3 +136,6 @@ class Particle {
         this.y += (dy / dist) * force * 0.8;
       }
     }
+
+    if (this.x < 0 || this.x > canvas.width || this.y < 0 || this.y > canvas.height) {
+      this.reset();
