@@ -248,3 +248,4 @@ commit 247 @ 2026-03-20T20:22:56 — docs: improve README clarity
 commit 248 @ 2025-08-04T12:00:28 — fix: button alignment on small screens
 commit 249 @ 2025-07-24T14:53:08 — chore: update dependencies
 commit 250 @ 2025-12-04T03:49:21 — chore: update .gitignore
+commit 251 @ 2026-05-17T18:44:45 — feat: improve sponsor section layout
