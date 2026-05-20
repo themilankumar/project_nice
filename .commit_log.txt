@@ -8,3 +8,4 @@ commit 7 @ 2025-04-10T23:24:36 — feat: improve hero section animation
 commit 8 @ 2026-03-25T02:10:12 — fix: reduce layout shift on load
 commit 9 @ 2025-11-24T23:27:12 — feat: add preloader animation
 commit 10 @ 2025-04-29T21:35:05 — feat: add back-to-top button
+commit 11 @ 2026-05-20T10:13:38 — fix: resolve z-index conflict
