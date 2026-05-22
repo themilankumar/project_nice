@@ -154,3 +154,8 @@ function initParticles() {
   const count = Math.min(Math.floor((canvas.width * canvas.height) / 12000), 120);
   for (let i = 0; i < count; i++) {
     particles.push(new Particle());
+  }
+}
+initParticles();
+window.addEventListener('resize', initParticles);
+
