@@ -359,3 +359,4 @@ commit 358 @ 2025-04-06T15:20:32 — fix: sticky header overlap on anchor scroll
 commit 359 @ 2025-04-27T09:55:40 — style: fine-tune gradient backgrounds
 commit 360 @ 2025-05-16T06:17:32 — chore: format code with prettier config
 commit 361 @ 2025-09-14T04:25:35 — style: adjust color palette
+commit 362 @ 2026-05-24T03:17:26 — feat: improve responsive layout
