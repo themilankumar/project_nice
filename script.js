@@ -159,3 +159,6 @@ function initParticles() {
 initParticles();
 window.addEventListener('resize', initParticles);
 
+function connectParticles() {
+  for (let i = 0; i < particles.length; i++) {
+    for (let j = i + 1; j < particles.length; j++) {
