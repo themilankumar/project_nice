@@ -169,3 +169,8 @@ function connectParticles() {
         const opacity = (1 - dist / 140) * 0.12;
         ctx.beginPath();
         ctx.moveTo(particles[i].x, particles[i].y);
+        ctx.lineTo(particles[j].x, particles[j].y);
+        ctx.strokeStyle = `rgba(255, 107, 26, ${opacity})`;
+        ctx.lineWidth = 0.5;
+        ctx.stroke();
+      }
