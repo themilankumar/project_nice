@@ -174,3 +174,7 @@ function connectParticles() {
         ctx.lineWidth = 0.5;
         ctx.stroke();
       }
+    }
+  }
+}
+
