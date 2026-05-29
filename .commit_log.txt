@@ -231,3 +231,4 @@ commit 230 @ 2025-11-16T22:00:06 — feat: add back-to-top button
 commit 231 @ 2025-08-15T04:03:36 — docs: update project timeline
 commit 232 @ 2025-05-15T20:32:22 — feat: enhance navbar hover effects
 commit 233 @ 2025-12-24T13:08:31 — refactor: clean up script logic
+commit 234 @ 2026-05-29T12:59:30 — docs: add license header comments
