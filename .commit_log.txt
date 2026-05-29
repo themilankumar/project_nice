@@ -183,3 +183,4 @@ commit 182 @ 2026-01-27T20:21:55 — fix: mobile menu toggle behavior
 commit 183 @ 2025-05-08T01:59:17 — feat: animate counter stats on scroll
 commit 184 @ 2025-10-13T07:35:00 — chore: update dependencies
 commit 185 @ 2025-09-03T12:19:17 — chore: remove unused CSS rules
+commit 186 @ 2026-05-30T03:47:45 — fix: reduce layout shift on load
