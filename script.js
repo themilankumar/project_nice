@@ -183,3 +183,11 @@ function animateParticles() {
   particles.forEach(p => {
     p.update();
     p.draw();
+  });
+  connectParticles();
+  requestAnimationFrame(animateParticles);
+}
+animateParticles();
+
+// ---- Contact form handler ----
+function handleSubmit(e) {
