@@ -191,3 +191,7 @@ animateParticles();
 
 // ---- Contact form handler ----
 function handleSubmit(e) {
+  e.preventDefault();
+  const name = document.getElementById('name').value;
+  const email = document.getElementById('email').value;
+  const subject = document.getElementById('subject').value;
