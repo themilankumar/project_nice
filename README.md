@@ -54,7 +54,7 @@ CU Motorsports is a student-driven team that brings together the brightest minds
 
 ## 📫 Contact
 
-- 📧 **Email:** [anirudhvikal2005@gmail.com](mailto:anirudhvikal2005@gmail.com)
+- 📧 **Email:** [anirudhvikal2005@gmail.com](mailto:milandhiman232@gmail.com)
 - 📍 **Location:** Chandigarh University, NH-95, Mohali, Punjab, India
 
 ## 🚀 Getting Started
