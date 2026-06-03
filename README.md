@@ -54,14 +54,14 @@ CU Motorsports is a student-driven team that brings together the brightest minds
 
 ## 📫 Contact
 
-- 📧 **Email:** [anirudhvikal2005@gmail.com](mailto:milandhiman232@gmail.com)
+- 📧 **Email:** [milandhiman232@gmail.com](mailto:milandhiman232@gmail.com)
 - 📍 **Location:** Chandigarh University, NH-95, Mohali, Punjab, India
 
 ## 🚀 Getting Started
 
 ```bash
 # Clone the repository
-git clone https://github.com/anivikal/Cu_motosport.git
+git clone https://github.com/themilankumar/Cu_motosport.git
 
 # Open in browser
 open index.html
