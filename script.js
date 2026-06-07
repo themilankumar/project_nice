@@ -211,3 +211,42 @@ function handleSubmit(e) {
     btn.innerHTML = 'Send Message <i class="fas fa-paper-plane"></i>';
     btn.style.background = '';
     document.getElementById('contactForm').reset();
+  }, 3000);
+}
+
+// ---- Smooth tilt effect on spec cards ----
+document.querySelectorAll('.spec-card').forEach(card => {
+  card.addEventListener('mousemove', e => {
+    const rect = card.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    const centerX = rect.width / 2;
+    const centerY = rect.height / 2;
+    const rotateX = (y - centerY) / 20;
+    const rotateY = (centerX - x) / 20;
+    card.style.transform = `perspective(600px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateX(6px)`;
+  });
+  card.addEventListener('mouseleave', () => {
+    card.style.transform = '';
+  });
+});
+
+// ---- Smooth tilt effect on dept cards ----
+document.querySelectorAll('.dept-card').forEach(card => {
+  card.addEventListener('mousemove', e => {
+    const rect = card.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    const centerX = rect.width / 2;
+    const centerY = rect.height / 2;
+    const rotateX = (y - centerY) / 25;
+    const rotateY = (centerX - x) / 25;
+    card.style.transform = `perspective(800px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-6px)`;
+  });
+  card.addEventListener('mouseleave', () => {
+    card.style.transform = '';
+  });
+});
+
+console.log('%c🏁 CU Motorsports — Chandigarh University', 'color: #ff6b1a; font-size: 16px; font-weight: bold;');
+console.log('%cEngineered for Formula Bharat', 'color: #8a8a9e; font-size: 12px;');
